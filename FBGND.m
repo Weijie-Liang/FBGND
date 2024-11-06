@@ -1,5 +1,8 @@
 function [X,N,S,Out] = FBGND(Y,opts)
 
+% !!! Please make sure that Matconvnet is installed correctly. For more details, 
+% please visit https://www.vlfeat.org/matconvnet/.
+
 %%  Parameters setting
 Nway = size(Y);
 tol = 1e-3;
