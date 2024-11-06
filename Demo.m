@@ -7,8 +7,8 @@
 % Hyperspectral Image Restoration.
 % IEEE Transactions on Computational Imaging. 2024.
 %
-% !!! Please make sure that Matconvnet is installed correctly. For more details, please visit:
-% https://www.vlfeat.org/matconvnet/
+% !!! Please make sure that Matconvnet is installed correctly. For more details, 
+% please visit https://www.vlfeat.org/matconvnet/.
 %
 % Created by Weijie Liang
 % 4/20/2024
